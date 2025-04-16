@@ -2,6 +2,8 @@
 
 This project demonstrates a real-time data streaming pipeline that simulates stock market data using a Python-based producer, streams it via Apache Kafka (hosted on EC2), and stores the data in Amazon S3. The pipeline is integrated with AWS Glue and Athena for metadata cataloging and serverless querying.
 
+![image](https://github.com/user-attachments/assets/04d744b4-266b-40fd-a3d7-f845b7663118)
+
 ---
 
 ## 🔧 Tech Stack
